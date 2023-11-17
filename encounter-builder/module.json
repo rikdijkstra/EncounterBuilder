@@ -19,7 +19,7 @@
           "path": "lang/en.json"
         }
     ],
-    "esmodules": [
-      "/scripts/module.js"
+    "scripts": [
+      "/scripts/encounterbuilder.js"
     ]
   }
